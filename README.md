@@ -48,6 +48,12 @@ cd effort-router && claude plugin test   # 4 tests
 - The headless counter is shared through the mod's local store; two sessions writing at the same instant can miss one count.
 - Tested on Claude Code 2.1.292, macOS.
 
+## Support
+
+Free and MIT licensed. If it saved you a plan window, you can [pay what you want on Gumroad](https://alimardani6.gumroad.com/l/dgunoy).
+
+Need it set up on your team, or a custom guardrail for your workflow? Open an issue.
+
 ## License
 
 MIT
