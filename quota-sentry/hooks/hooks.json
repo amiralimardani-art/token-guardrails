@@ -1,0 +1,4 @@
+{
+  "description": "quota-sentry",
+  "modules": ["./register.js"]
+}

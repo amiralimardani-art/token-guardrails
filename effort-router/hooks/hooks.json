@@ -1,0 +1,4 @@
+{
+  "description": "effort-router",
+  "modules": ["./register.js"]
+}

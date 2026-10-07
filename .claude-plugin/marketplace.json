@@ -1,0 +1,8 @@
+{
+  "name": "token-guardrails",
+  "owner": { "name": "Amir Alimardani" },
+  "plugins": [
+    { "name": "quota-sentry", "source": "./quota-sentry", "description": "Stops runaway Claude Code loops before they burn your plan: caps headless runs per hour, asks after long automatic streaks, warns at 80/95% of your limits" },
+    { "name": "effort-router", "source": "./effort-router", "description": "Right effort for every prompt without breaking the prompt cache: low for 'ok go on', high for real work; subagents on Sonnet unless the task is hard" }
+  ]
+}

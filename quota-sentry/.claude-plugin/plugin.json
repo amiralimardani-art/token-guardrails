@@ -1,0 +1,1 @@
+{ "name": "quota-sentry", "version": "1.0.0", "description": "Stops runaway Claude Code loops before they burn your plan", "author": { "name": "Amir Alimardani" }, "license": "MIT" }

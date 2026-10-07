@@ -1,0 +1,1 @@
+{ "name": "effort-router", "version": "1.0.0", "description": "Right reasoning effort for every prompt without breaking the prompt cache", "author": { "name": "Amir Alimardani" }, "license": "MIT" }
